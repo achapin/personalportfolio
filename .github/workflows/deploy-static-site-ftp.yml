@@ -29,4 +29,3 @@ jobs:
           password: ${{ secrets.ftpPassword }}
           server-dir: ${{ secrets.ftpDir }}
           local-dir: ./public/
-          protocol: ftps

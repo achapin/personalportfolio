@@ -90,7 +90,6 @@ darkmode = "light"
 [taxonomies]
 category = "categories"
 tag = "tags"
-archive = "archives"
 
 [privacy]
 

@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.144.2'
 
       - name: Build
-        run: hugo --minify
+        run: npm run build
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0

@@ -3,7 +3,7 @@ title: "Unite Europe 2016 Presentation"
 draft: false
 date: 2016-06-01T00:00:00+00:00
 image: images/unite2016/list.png
-categories: 'Extra'
+categories: 'Professional'
 summary: A presentation I gave about Procedural Content Generation
 subhead: 
 ---
